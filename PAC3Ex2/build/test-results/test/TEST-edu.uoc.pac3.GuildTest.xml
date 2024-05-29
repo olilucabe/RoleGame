@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.GuildTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-04-27T12:28:09" hostname="Shadesmar.local" time="0.03">
+  <properties/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac3.GuildTest" time="0.006"/>
+  <testcase name="Sanity - Constructors definition" classname="edu.uoc.pac3.GuildTest" time="0.0"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Valid parameters" classname="edu.uoc.pac3.GuildTest" time="0.004"/>
+  <testcase name="Guild creation - Valid name" classname="edu.uoc.pac3.GuildTest" time="0.0"/>
+  <testcase name="Guild creation - Invalid name" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Valid level" classname="edu.uoc.pac3.GuildTest" time="0.0"/>
+  <testcase name="Guild creation - Invalid level" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Valid description" classname="edu.uoc.pac3.GuildTest" time="0.0"/>
+  <testcase name="Guild creation - Invalid description" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Valid creation date" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Invalid creation date" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Recruiting" classname="edu.uoc.pac3.GuildTest" time="0.0"/>
+  <testcase name="Guild creation - Get days of life" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <testcase name="Guild creation - Get max members" classname="edu.uoc.pac3.GuildTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
