@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.EnemyTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-04-28T08:30:42" hostname="Shadesmar.home" time="0.019">
+  <properties/>
+  <testcase name="Enemy creation - Valid parameters" classname="edu.uoc.pac3.EnemyTest" time="0.007"/>
+  <testcase name="Enemy creation - Invalid Name" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Enemy health adjustment - Set to zero" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Enemy damage range - Invalid settings" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Enemy movement - Valid and invalid moves" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Enemy attack and receive damage" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Initial Position and Movement" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Enemy receive damage and death interaction" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Enemy attack with equal min and max damage" classname="edu.uoc.pac3.EnemyTest" time="0.0"/>
+  <testcase name="Enemy successive movements" classname="edu.uoc.pac3.EnemyTest" time="0.0"/>
+  <testcase name="Enemy health not set to negative" classname="edu.uoc.pac3.EnemyTest" time="0.0"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac3.EnemyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
