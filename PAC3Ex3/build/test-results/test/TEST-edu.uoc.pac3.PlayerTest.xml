@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.PlayerTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2024-04-27T12:08:33" hostname="Shadesmar.local" time="0.03">
+  <properties/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac3.PlayerTest" time="0.007"/>
+  <testcase name="Sanity - Constructors definition" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Valid parameters" classname="edu.uoc.pac3.PlayerTest" time="0.004"/>
+  <testcase name="Player creation - Valid name" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Invalid name" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - valid level" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Invalid level" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Valid creation date" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Invalid creation date" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Valid experience" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Invalid experience" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Valid gold" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Invalid gold" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Valid health regen per sec" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Invalid health regen per sec" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Valid critical pct" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Invalid critical pct" classname="edu.uoc.pac3.PlayerTest" time="0.002"/>
+  <testcase name="Player creation - Valid dodge pct" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Invalid dodge pct" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Valid honor title" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Invalid honor title" classname="edu.uoc.pac3.PlayerTest" time="0.001"/>
+  <testcase name="Player creation - Valid player race" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <testcase name="Player creation - Invalid player race" classname="edu.uoc.pac3.PlayerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
